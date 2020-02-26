@@ -7,6 +7,7 @@ public static void main(String[] args){
 }
 public void greetEnglish () {
     System.out.println("Hello");
+    //Georgi Petkov beshe tuk
 }
 public void greetItalian()
 {
